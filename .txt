@@ -1,0 +1,2 @@
+Title: MERN Recipe App with Authentication - Build & Deploy A React Intermediate Project
+Course URL: https://www.youtube.com/watch?v=P43DW3HUUH8&list=LL&index=9&t=227s&ab_channel=PedroTech

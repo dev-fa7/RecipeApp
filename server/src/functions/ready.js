@@ -1,0 +1,1 @@
+export const ready = () => console.log("Server Started");
